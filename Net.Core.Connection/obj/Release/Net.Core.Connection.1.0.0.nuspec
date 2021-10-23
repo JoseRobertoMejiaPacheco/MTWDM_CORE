@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Net.Core.Connection</id>
+    <version>1.0.0</version>
+    <authors>Net.Core.Connection</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Dapper" version="2.0.90" exclude="Build,Analyzers" />
+        <dependency id="MySql.Data" version="8.0.25" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ISSCJRMPACHECO\source\repos\MTWDM_CORE\Net.Core.Connection\bin\Release\net6.0\Net.Core.Connection.dll" target="lib\net6.0\Net.Core.Connection.dll" />
+  </files>
+</package>

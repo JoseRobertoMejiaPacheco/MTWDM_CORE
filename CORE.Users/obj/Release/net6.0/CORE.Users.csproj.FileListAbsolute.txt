@@ -1,0 +1,13 @@
+C:\Users\ISSCJRMPACHECO\Documents\Tarea1\CORE.Users\bin\Release\net6.0\CORE.Users.deps.json
+C:\Users\ISSCJRMPACHECO\Documents\Tarea1\CORE.Users\bin\Release\net6.0\CORE.Users.dll
+C:\Users\ISSCJRMPACHECO\Documents\Tarea1\CORE.Users\bin\Release\net6.0\ref\CORE.Users.dll
+C:\Users\ISSCJRMPACHECO\Documents\Tarea1\CORE.Users\bin\Release\net6.0\CORE.Users.pdb
+C:\Users\ISSCJRMPACHECO\Documents\Tarea1\CORE.Users\obj\Release\net6.0\CORE.Users.GlobalUsings.g.cs
+C:\Users\ISSCJRMPACHECO\Documents\Tarea1\CORE.Users\obj\Release\net6.0\CORE.Users.csproj.AssemblyReference.cache
+C:\Users\ISSCJRMPACHECO\Documents\Tarea1\CORE.Users\obj\Release\net6.0\CORE.Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISSCJRMPACHECO\Documents\Tarea1\CORE.Users\obj\Release\net6.0\CORE.Users.AssemblyInfoInputs.cache
+C:\Users\ISSCJRMPACHECO\Documents\Tarea1\CORE.Users\obj\Release\net6.0\CORE.Users.AssemblyInfo.cs
+C:\Users\ISSCJRMPACHECO\Documents\Tarea1\CORE.Users\obj\Release\net6.0\CORE.Users.csproj.CoreCompileInputs.cache
+C:\Users\ISSCJRMPACHECO\Documents\Tarea1\CORE.Users\obj\Release\net6.0\CORE.Users.dll
+C:\Users\ISSCJRMPACHECO\Documents\Tarea1\CORE.Users\obj\Release\net6.0\ref\CORE.Users.dll
+C:\Users\ISSCJRMPACHECO\Documents\Tarea1\CORE.Users\obj\Release\net6.0\CORE.Users.pdb

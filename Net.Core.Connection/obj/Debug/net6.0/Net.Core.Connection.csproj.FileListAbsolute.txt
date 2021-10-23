@@ -1,0 +1,12 @@
+C:\Users\ISSCJRMPACHECO\source\repos\MTWDM_CORE\Net.Core.Connection\bin\Debug\net6.0\Net.Core.Connection.deps.json
+C:\Users\ISSCJRMPACHECO\source\repos\MTWDM_CORE\Net.Core.Connection\bin\Debug\net6.0\Net.Core.Connection.dll
+C:\Users\ISSCJRMPACHECO\source\repos\MTWDM_CORE\Net.Core.Connection\bin\Debug\net6.0\ref\Net.Core.Connection.dll
+C:\Users\ISSCJRMPACHECO\source\repos\MTWDM_CORE\Net.Core.Connection\bin\Debug\net6.0\Net.Core.Connection.pdb
+C:\Users\ISSCJRMPACHECO\source\repos\MTWDM_CORE\Net.Core.Connection\obj\Debug\net6.0\Net.Core.Connection.GlobalUsings.g.cs
+C:\Users\ISSCJRMPACHECO\source\repos\MTWDM_CORE\Net.Core.Connection\obj\Debug\net6.0\Net.Core.Connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISSCJRMPACHECO\source\repos\MTWDM_CORE\Net.Core.Connection\obj\Debug\net6.0\Net.Core.Connection.AssemblyInfoInputs.cache
+C:\Users\ISSCJRMPACHECO\source\repos\MTWDM_CORE\Net.Core.Connection\obj\Debug\net6.0\Net.Core.Connection.AssemblyInfo.cs
+C:\Users\ISSCJRMPACHECO\source\repos\MTWDM_CORE\Net.Core.Connection\obj\Debug\net6.0\Net.Core.Connection.csproj.CoreCompileInputs.cache
+C:\Users\ISSCJRMPACHECO\source\repos\MTWDM_CORE\Net.Core.Connection\obj\Debug\net6.0\Net.Core.Connection.dll
+C:\Users\ISSCJRMPACHECO\source\repos\MTWDM_CORE\Net.Core.Connection\obj\Debug\net6.0\ref\Net.Core.Connection.dll
+C:\Users\ISSCJRMPACHECO\source\repos\MTWDM_CORE\Net.Core.Connection\obj\Debug\net6.0\Net.Core.Connection.pdb
